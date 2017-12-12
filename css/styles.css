@@ -136,3 +136,12 @@
   top: 5px;
   left: 5px;
 }
+#dview{
+  border: 1px solid #F15A29;
+  background-color: white;
+  color: #F15A29;
+}
+#box2{
+  padding: 20px;
+  box-shadow: 1px 2px 3px 3px #dcdcdc;
+}
