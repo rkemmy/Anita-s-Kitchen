@@ -104,3 +104,21 @@
   background-color: white;
   color: #F15A29;
 }
+.container-fluid{
+  height: 380px;
+  width: 80vw;
+  background-color: white;
+  padding: 50px;
+  padding-top: 0px;
+}
+.nav-link{
+  background-color:silver;
+}
+.imgs{
+  margin-top: 30px;
+  margin-left: 10px;
+
+}
+.bgr{
+  float: right;
+}
