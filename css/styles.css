@@ -194,3 +194,14 @@
   color: #FFFFFF;
   margin-bottom: 0px;
 }
+#button{
+  background-color: #F15A29;
+  border: none;
+}
+#email{
+  height: 33px;
+  opacity: 0.3;
+}
+email,button{
+  margin: 20px;
+}
