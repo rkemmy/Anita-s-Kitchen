@@ -99,3 +99,8 @@
   padding: 20px;
   box-shadow: 1px 2px 3px 3px #dcdcdc;
 }
+#fview{
+  border: 1px solid #F15A29;
+  background-color: white;
+  color: #F15A29;
+}
