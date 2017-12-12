@@ -186,3 +186,11 @@
 .About{
   margin-top: 100px;
 }
+#subscribe{
+  background-image:url(../img/backgrounds/subscribe.jpg);
+  background-repeat: no-repeat;
+  text-align: center;
+  font-weight: bold;
+  color: #FFFFFF;
+  margin-bottom: 0px;
+}
