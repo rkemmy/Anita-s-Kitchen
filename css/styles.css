@@ -205,3 +205,11 @@
 email,button{
   margin: 20px;
 }
+#footer{
+  text-align: center;
+  background-color: #F15A29;
+  color: #FFFFFF
+}
+.fa{
+  text-align: center;
+}
