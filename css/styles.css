@@ -37,3 +37,14 @@
 #ptime:hover{
   color:blue;
 }
+#bfast{
+  background-image: url(../img/foodtop/breakfast.jpg);
+  background-repeat: no-repeat;
+  font-size: 2rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 80px;
+  transition: .5s;
+}
