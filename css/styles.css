@@ -52,3 +52,28 @@
   background-size: 120%;
   color:black;
 }
+#bfast:after{
+  word-wrap: break-word;
+  overflow: hidden;
+  height: 100%;
+  content: attr(data-text);
+}
+#lunch{
+  background-image: url(../img/foodtop/lunch.jpg);
+  background-repeat:no-repeat;
+  font-size: 2rem;
+  text-align: center;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 80px;
+}
+#lunch:hover{
+  background-size: 120%;
+  color:black;
+}
+#lunch:after{
+  word-wrap: break-word;
+  overflow: hidden;
+  height: 100%;
+  content: attr(data-text);
+}
