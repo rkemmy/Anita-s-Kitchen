@@ -145,3 +145,7 @@
   padding: 20px;
   box-shadow: 1px 2px 3px 3px #dcdcdc;
 }
+#burger{
+  background-image:url(../img/backgrounds/foodsBg.jpg);
+  background-repeat: no-repeat;
+}
