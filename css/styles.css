@@ -149,3 +149,19 @@
   background-image:url(../img/backgrounds/foodsBg.jpg);
   background-repeat: no-repeat;
 }
+#angle1  {
+  position: relative;
+  top: 5px;
+  left: -10px;
+  color: #F15A29;
+  font-size: 40px;
+  padding: 10px;
+}
+#angle{
+  position: relative;
+  top: 5px;
+  left: 10px;
+  color: #F15A29;
+  font-size: 40px;
+  padding: 10px;
+}
