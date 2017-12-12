@@ -165,3 +165,9 @@
   font-size: 40px;
   padding: 10px;
 }
+#box3{
+  padding: 20px;
+  box-shadow: 1px 2px 3px 3px #dcdcdc;
+  margin-bottom: 100px;
+  text-align: center;
+}
