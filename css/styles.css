@@ -77,3 +77,21 @@
   height: 100%;
   content: attr(data-text);
 }
+#dinner{
+  background-image:url(../img/foodtop/dinner.jpg);
+  background-repeat: no-repeat;
+  font-size: 2rem;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 80px;
+}
+#dinner:hover{
+  background-size: 120%;
+  color:black;
+}
+#dinner:after{
+  word-wrap: break-word;
+  overflow: hidden;
+  height: 100%;
+  content: attr(data-text);
+}
